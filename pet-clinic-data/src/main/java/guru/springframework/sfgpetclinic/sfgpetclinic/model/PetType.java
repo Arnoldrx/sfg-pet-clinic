@@ -1,4 +1,4 @@
-package guru.springframework.sfgpetclinic.model;
+package guru.springframework.sfgpetclinic.sfgpetclinic.model;
 
 public class PetType extends BaseEntity {
     private String name;
